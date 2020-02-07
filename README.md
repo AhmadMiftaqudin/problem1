@@ -1,6 +1,8 @@
 # Problem 1
 Paradoks Monty Hall
 
+![Image Project](https://github.com/AhmadMiftaqudin/problem1/blob/master/project_image.png)
+
 # Pertanyaan
 Misal Anda diberikan sebuah kuis.
 Anda diberikan pilihan tiga buah pintu yang salah satu isi pintu tersebut berisi mobil dan 2 pintu lainnya berisi kambing.
